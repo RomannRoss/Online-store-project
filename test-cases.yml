@@ -73,8 +73,7 @@ prerequisites: |
 test-data: |
     Товар: Cat food 
 steps:
-  - Нажимаем на кнопку "Add to cart", а затем на "Cart"
+  - Нажимаем на кнопку "Add to cart" 
+  - Нажимаем на кнопку "Cart"
 expected-result: |
   Открывается корзина с выбранными товарами
-  
-  
