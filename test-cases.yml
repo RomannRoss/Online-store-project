@@ -6,7 +6,7 @@ requirement: |
 prerequisites: |
     Открыта главная страница магазина 
 test-data: |
-    Ключевое слово: apple
+    Ключевое слово
 steps:
   - Вводим ключевое слово в поисковую строку 
 expected-result: |
@@ -19,7 +19,7 @@ requirement: |
 prerequisites: |
     Открыта главная страница магазина 
 test-data: |
-    Категория: groceries
+    Категория товаров
 steps:
   - Выбираем одну категорию из списка
 expected-result: |
@@ -32,7 +32,7 @@ requirement: |
 prerequisites: |
     Открыта главная страница магазина 
 test-data: |
-    Бренд: Chanel 
+    Бренд
 steps:
   - Выбираем бренд из общего списка
 expected-result: |
@@ -45,7 +45,7 @@ requirement: |
 prerequisites: |
     Открыта главная страница магазина
 test-data: |
-    Наименование товара: Red Lipstick
+    Наименование товара
 steps:
   - Нажимаем на иконку с товаром
 expected-result: |
@@ -58,7 +58,7 @@ requirement: |
 prerequisites: |
     Открыта главная страница магазина
 test-data: |
-    Товар: Cat food
+    Товар
 steps:
   - Нажимаем на кнопку "Add to cart"
 expected-result: |
@@ -71,7 +71,7 @@ requirement: |
 prerequisites: |
     Открыта главная страница магазина
 test-data: |
-    Товар: Cat food 
+    Товар
 steps:
   - Нажимаем на кнопку "Add to cart" 
   - Нажимаем на кнопку "Cart"
