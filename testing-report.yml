@@ -1,48 +1,48 @@
 ---
 - summary: |
     Проверка возможности искать товары по ключевому слову
-status: fail
+  status: fail
 
 - summary: |
     Проверка возможности искать товары по категории 
-status: fail
+  status: fail
 
 - summary: |
     Проверка возможности фильтровать товары 
-status: fail
+  status: fail
 
 - summary: |
     Проверка возможности просматривать подробную информацию о товаре
-status: pass
+  status: pass
 
 - summary: |
      Проверка возможности добавлять товары в корзину
-status: pass
+  status: pass
 
 - summary: |
     Проверка возможности просматривать содержимое корзины
-status: pass
+  status: pass
 
 - summary: |
     Проверка доступности сайта на различных языках 
-status: fail
+  status: fail
 
 - summary: |
     Проверка поиска товаров по разным ценовым диапазонам
-status: fail
+  status: fail
 
 - summary: |
     Проверка корректного отображения количества товаров в наличии
-status: fail
+  status: fail
 
 - summary: |
     Проверка совместимости сайта с последними версиями браузеров
-status: pass
+  status: pass
 
 - summary: |
     Проверка адаптивности сайта на различных устройствах 
-status: pass
+  status: pass
 
 - summary: |
      Проверка скорости загрузки сайта
-status: pass
+  status: pass
