@@ -55,8 +55,8 @@ bugreports:
       Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
       OC Windows 22H2, сборка 19045.4780
     steps-to-reproduce: |
-      Открыть сайт для тестирования адаптивности http://adaptivator.ru/
-      Протестировать сайт
+      1. Открыть сайт для тестирования адаптивности http://adaptivator.ru/
+      2. Протестировать магазин https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
     expected-result: |
       Все карточки товаров отображаются корректно
     actual-result: |
