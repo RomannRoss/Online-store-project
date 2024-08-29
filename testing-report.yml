@@ -24,6 +24,10 @@
   status: pass
 
 - summary: |
+    
+  status: pass
+
+- summary: |
     Проверка доступности сайта на различных языках 
   status: fail
 
