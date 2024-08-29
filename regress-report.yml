@@ -48,4 +48,14 @@ test-cases:
        Проверка скорости загрузки сайта
     status: pass
 
-  bugreports: []
+  bugreports:
+  - summary: |
+      
+    environment: |
+      
+    steps-to-reproduce: |
+      
+    expected-result: |
+      
+    actual-result: |
+      
