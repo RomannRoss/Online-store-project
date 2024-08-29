@@ -24,7 +24,7 @@
   status: pass
 
 - summary: |
-    
+     Проверка корректной работы фильтрации товаров по наличию 
   status: pass
 
 - summary: |
