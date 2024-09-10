@@ -4,7 +4,7 @@
   requirement: |
     При вводе ключевого слова должны отображаться только товары, в котором есть это ключевое слово
   prerequisites: |
-    Открыта главная страница магазина 
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Поисковая строка
   steps:
@@ -17,7 +17,7 @@
   requirement: |
     При выборе определенной категории должны отображаться товары только из этой категории
   prerequisites: |
-    Открыта главная страница магазина 
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Список с категориями товаров
   steps:
@@ -30,7 +30,7 @@
   requirement: |
     При выборе бренда из списка должен отображаться только выбранный бренд
   prerequisites: |
-    Открыта главная страница магазина 
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Чек-лист с брендами
   steps:
@@ -43,7 +43,7 @@
   requirement: |
     При нажатии на кнопку "In Stock" происходит отображение всех товаров в наличии
   prerequisites: |
-   Открыта главная страница магазина 
+   Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
    Кнопка "In Stock"
   steps:
@@ -56,7 +56,7 @@
   requirement: |
     При выборе определенного ценового диапазона должны отображаться только товаров из этого диапазона
   prerequisites: |
-    Открыта главная страница магазина
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Кнопка "Price" - "From - To:"
   steps:
@@ -69,7 +69,7 @@
   requirement: |
     При нажатии на определенный товар должна отображаться подробная информация об этом товаре 
   prerequisites: |
-    Открыта главная страница магазина
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Наименование товара
   steps:
@@ -82,7 +82,7 @@
   requirement: |
     При нажатии кнопки "Add to cart" происходит добавление товара в корзину
   prerequisites: |
-    Открыта главная страница магазина
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Карточка товара, который находится в наличии
   steps:
@@ -96,7 +96,7 @@
   requirement: |
     Кнопка "Add to cart" отсутствует при просмотре подробной информации о товаре
   prerequisites: |
-    Открыта главная страница магазина
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Карточка товара, который находится в наличии
   steps:
@@ -109,7 +109,7 @@
   requirement: |
     При нажатии на кнопку "Cart" происходит перенаправление на страницу корзины
   prerequisites: |
-    Открыта главная страница магазина
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Кнопка "Add to cart" 
     Кнопка "Cart"
@@ -124,7 +124,7 @@
   requirement: |
     При добавлении в корзину должно произойти уменьшение количества товара в наличии
   prerequisites: |
-    Открыта главная страница магазина
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     Кнопка "Add to cart"
   steps:
@@ -137,7 +137,7 @@
   requirement: |
     При нажатии кнопки "Checkout" должно произойти успешное оформление заказа
   prerequisites: |
-    Открыта корзина
+    Открыта корзина https://hexlet-products-store.vercel.app/cart
   test-data: |
     Кнопка "Checkout"
   steps:
@@ -164,7 +164,7 @@
   requirement: |
     При нажатии кнопки "Language" флаги должны корректно отображаться
   prerequisites: |
-    Открыта главная страница сайта
+    Открыта главная страница сайта https://hexlet-products-store.vercel.app/
   test-data: |
     Кнопка "Language"
   steps:
@@ -177,7 +177,7 @@
   requirement: |
     Сайт должен быть совместим с последними версиями браузеров
   prerequisites: |
-    Открыт сайт для тестирования кроссбраузерности
+    Открыт сайт для тестирования кроссбраузерности https://www.browserstack.com/
   test-data: |
     Сайт для тестирования кроссбраузерности: https://www.browserstack.com/
   steps:
@@ -192,7 +192,7 @@
   requirement: |
     Сайт должен корректно отображаться на различных устройствах
   prerequisites: |
-    Открыт сайт для тестирования адаптивности
+    Открыт сайт для тестирования адаптивности http://adaptivator.ru/
   test-data: |
     Сайт для тестирования адаптивности на различных устройствах: http://adaptivator.ru/
   steps:
@@ -206,9 +206,9 @@
   requirement: |
     При изменении скорости соединения сайт должен работать корректно
   prerequisites: |
-    Открыта главная страница магазина 
+    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Открытая панель разработчика
+    Открытая панель разработчика 
   steps:
     - Переходим на сайт https://hexlet-products-store.vercel.app/
     - Открываем панель разработчика
@@ -221,7 +221,7 @@
   requirement: |
     При обновлении страницы содержимое корзины остается неизменным
   prerequisites: |
-    Открыта корзина с добавленными товарами
+    Открыта корзина с добавленными товарами https://hexlet-products-store.vercel.app/cart
   test-data: |
     Кнопка "Cart"
   steps:
