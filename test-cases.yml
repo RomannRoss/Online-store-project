@@ -6,7 +6,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Поисковая строка
+    empty
   steps:
   - Вводим ключевое слово в поисковую строку 
   expected-result: |
@@ -19,7 +19,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Список с категориями товаров
+    empty
   steps:
   - Выбираем одну категорию из списка
   expected-result: |
@@ -32,7 +32,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Чек-лист с брендами
+    empty
   steps:
   - Выбираем бренд из общего списка
   expected-result: |
@@ -45,7 +45,7 @@
   prerequisites: |
    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-   Кнопка "In Stock"
+   empty
   steps:
   - Нажимаем на кнопку "In Stock"
   expected-result: |
@@ -58,9 +58,9 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Кнопка "Price" - "From - To:"
+    Ценовой диапазон от 285 до 300
   steps:
-    - Выбираем определенный ценовой диапазон
+    - Выбираем ценовой диапазон
   expected-result: |
     Должны отображаться только товары из выбранного ценового диапазона
 
@@ -71,7 +71,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Наименование товара
+    empty
   steps:
   - Нажимаем на иконку с товаром
   expected-result: |
@@ -84,7 +84,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Карточка товара, который находится в наличии
+    empty
   steps:
   - Нажимаем на кнопку "In Stock"
   - Нажимаем на кнопку "Add to cart"
@@ -98,7 +98,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Карточка товара, который находится в наличии
+    empty
   steps:
   - Нажимаем на карточку товара, которого нет в наличии
   expected-result: |
@@ -111,8 +111,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Кнопка "Add to cart" 
-    Кнопка "Cart"
+    empty
   steps:
   - Нажимаем на кнопку "Add to cart" 
   - Нажимаем на кнопку "Cart"
@@ -126,7 +125,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Кнопка "Add to cart"
+    empty
   steps:
     - Нажимаем на кнопку "Add to cart" некоторое количество раз
   expected-result: |
@@ -139,7 +138,7 @@
   prerequisites: |
     Открыта корзина https://hexlet-products-store.vercel.app/cart
   test-data: |
-    Кнопка "Checkout"
+    empty
   steps:
     - Нажимаем на кнопку "Add to card"
     - Нажимаем на кнопку "Checkout"
@@ -153,7 +152,7 @@
   prerequisites: |
     Открыта главная страница сайта
   test-data: |
-    Кнопка "Language"
+    empty
   steps:
     - Меняем один язык на другой 
   expected-result: |
@@ -166,7 +165,7 @@
   prerequisites: |
     Открыта главная страница сайта https://hexlet-products-store.vercel.app/
   test-data: |
-    Кнопка "Language"
+    empty
   steps:
     - Нажимаем кнопку "Language"
   expected-result: |
@@ -179,7 +178,7 @@
   prerequisites: |
     Открыт сайт для тестирования кроссбраузерности https://www.browserstack.com/
   test-data: |
-    Сайт для тестирования кроссбраузерности: https://www.browserstack.com/
+    empty
   steps:
     - Переходим на сайт https://www.browserstack.com/
     - Выбираем последние версии самых популярных браузеров
@@ -194,7 +193,7 @@
   prerequisites: |
     Открыт сайт для тестирования адаптивности http://adaptivator.ru/
   test-data: |
-    Сайт для тестирования адаптивности на различных устройствах: http://adaptivator.ru/
+    empty
   steps:
     - Переходим на сайт http://adaptivator.ru/
     - Вводим названия сайта магазина
@@ -208,7 +207,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Открытая панель разработчика 
+    empty
   steps:
     - Переходим на сайт https://hexlet-products-store.vercel.app/
     - Открываем панель разработчика
@@ -223,7 +222,7 @@
   prerequisites: |
     Открыта корзина с добавленными товарами https://hexlet-products-store.vercel.app/cart
   test-data: |
-    Кнопка "Cart"
+    empty
   steps:
     - Переходим на сайт https://hexlet-products-store.vercel.app/
     - Добавляем любой товар в корзину
