@@ -1,149 +1,5 @@
 ---
 - summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-- summary: |
-    
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-   
-  expected-result: |
-    
-  actual-result: |
-    
-    Ошибка изображена на скриншоте screen.jpg
-
-
-- summary: |
     Не работает возможность искать товары по ключевому слову
   enviroment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
@@ -172,20 +28,6 @@
     Ошибка изображена на скриншоте screen2.jpg
 
 - summary: |
-    Товары, которых нет в наличии, возможно добавить в корзину
-  enviroment: |
-    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
-    OC Windows 10 22H2, сборка 19045.4780
-  steps-to-reproduce: |
-    1. Зайти на главную страницу магазина https://hexlet-products-store.vercel.app/
-    2. Нажать на карточку товара, которого нет в наличии
-  expected-result: |
-    Кнопка "Add to cart" отсутствует, товар невозможно добавить в корзину
-  actual-result: |
-    Кнопка "Add to cart" присутствует, товар можно добавить в корзину
-    Ошибка изображена на скриншоте screen3.jpg
-
-- summary: |
     Не работает возможность фильтровать товары по бренду 
   enviroment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
@@ -197,7 +39,9 @@
     На главной странице отобразятся все товары в выбранном бренде
   actual-result: |
     На главной странице отображаются товары из других брендов
-    Ошибка изображена на скриншоте screen4.jpg
+    Ошибка изображена на скриншоте screen3.jpg
+
+
 
 - summary: |
     Не работает поиск товаров по разным ценовым диапазонам
@@ -211,7 +55,167 @@
     Отобразятся все товары в выбранном ценовом диапазоне
   actual-result: |
     На главной странице отображается сообщение "Nothing found!"
-    Ошибка изображена на скриншоте screen5.jpg
+    Ошибка изображена на скриншоте screen3.jpg
+
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+
+
+- summary: |
+    Товары, которых нет в наличии, возможно добавить в корзину
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+    1. Зайти на главную страницу магазина https://hexlet-products-store.vercel.app/
+    2. Нажать на карточку товара, которого нет в наличии
+  expected-result: |
+    Кнопка "Add to cart" отсутствует, товар невозможно добавить в корзину
+  actual-result: |
+    Кнопка "Add to cart" присутствует, товар можно добавить в корзину
+    Ошибка изображена на скриншоте screen3.jpg
 
 - summary: |
     Количество товаров в наличии отображается некорректно после добавления товаров в корзину
