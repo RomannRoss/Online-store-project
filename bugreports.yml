@@ -1,5 +1,149 @@
 ---
 - summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+- summary: |
+    
+  enviroment: |
+    Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
+    OC Windows 10 22H2, сборка 19045.4780
+  steps-to-reproduce: |
+   
+  expected-result: |
+    
+  actual-result: |
+    
+    Ошибка изображена на скриншоте screen.jpg
+
+
+- summary: |
     Не работает возможность искать товары по ключевому слову
   enviroment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
