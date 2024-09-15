@@ -200,7 +200,7 @@
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
     1. Открыть сайт для тестирования адаптивности http://adaptivator.ru/
-    2. Протестировать магазин https://hexlet-products-store.vercel.app/
+    2. Перейти на главную страницу магазина https://hexlet-products-store.vercel.app/
   expected-result: |
     Все элементы магазина отображаются корректно
   actual-result: |
