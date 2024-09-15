@@ -71,7 +71,7 @@
   prerequisites: |
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-    Ценовой диапазон от 285 до 300
+    Ценовой диапазон от 285 до 287
   steps:
     - Выбираем ценовой диапазон
   expected-result: |
