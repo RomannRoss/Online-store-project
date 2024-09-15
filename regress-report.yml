@@ -117,11 +117,11 @@
 
 - summary: |
     Проверка работы сайта на различных устройствах (Galaxy Mini S5570, Lumia Series, Nexus 4)
-  status: 
+  status: fail
 
 - summary: |
     Проверка скорости загрузки сайта
-  status: 
+  status: pass
 
 bugreports:
     - summary: |
