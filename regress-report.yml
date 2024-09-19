@@ -127,7 +127,7 @@ test-cases:
 bugreports:
   - summary: |
       Некорректное отображение товаров, которых нет в наличии
-    enviroment: |
+    environment: |
       Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
       OC Windows 10 22H2, сборка 19045.4780
     steps-to-reproduce: |
@@ -141,7 +141,7 @@ bugreports:
   
   - summary: |
       Некорретное отображение товаров, которых не существует 
-    enviroment: |
+    environment: |
       Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
       OC Windows 10 22H2, сборка 19045.4780
     steps-to-reproduce: |
@@ -155,7 +155,7 @@ bugreports:
   
   - summary: |
       Некорректное отображение флагов стран на кнопке смены языков
-    enviroment: |
+    environment: |
       Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
       OC Windows 10 22H2, сборка 19045.4780
     steps-to-reproduce: |
@@ -169,7 +169,7 @@ bugreports:
     
   - summary: |
       Некорректное отображение цены товара в заказе в мобильной версии сайта
-    enviroment: |
+    environment: |
       Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
       OC Windows 10 22H2, сборка 19045.4780
     steps-to-reproduce: |
