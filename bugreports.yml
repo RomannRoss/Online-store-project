@@ -1,7 +1,7 @@
 ---
 - summary: |
     Не работает возможность искать товары по ключевому слову
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -15,7 +15,7 @@
 
 - summary: |
     Не работает возможность искать товары по категории 
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -29,7 +29,7 @@
 
 - summary: |
     Не работает возможность фильтровать товары по бренду 
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -43,7 +43,7 @@
 
 - summary: |
     Не работает поиск товаров по разным ценовым диапазонам
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -57,7 +57,7 @@
 
 - summary: |
     В каталоге отсутствует рейтинг товара
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -70,7 +70,7 @@
 
 - summary: |
     На странице товара не работает переход по хэштегу
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -85,7 +85,7 @@
 
 - summary: |
     Запросы в devtools происходят с ошибками
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -105,7 +105,7 @@
 
 - summary: |
     Не работает иконка закрытия окна при оформлении заказа
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -122,7 +122,7 @@
 
 - summary: |
     Товары, которых нет в наличии, возможно добавить в корзину
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -137,7 +137,7 @@
 
 - summary: |
     Количество товаров в наличии отображается некорректно после добавления товаров в корзину
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -151,7 +151,7 @@
 
 - summary: |
     После оформления заказа отсутствует переход на страницу оплаты
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -167,7 +167,7 @@
 
 - summary: |
     Сайт отображается некорректно после переключения языка с английского на русский
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -181,7 +181,7 @@
 
 - summary: |
     Некорректное отображение флага английского языка в списке выбора языков
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
@@ -195,7 +195,7 @@
 
 - summary: |
     На мобильных устройствах сайт отображается некорректно
-  enviroment: |
+  environment: |
     Google Chrome Версия 128.0.6613.85 (Официальная сборка) (64 бит)
     OC Windows 10 22H2, сборка 19045.4780
   steps-to-reproduce: |
