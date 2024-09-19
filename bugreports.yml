@@ -100,7 +100,7 @@
   expected-result: |
     Все запросы должны проходить без ошибок
   actual-result: |
-    Возникает ошибка
+    При нажатии кнопки "Checkout" возникает ошибка 500 Internal Server Error
     Ошибка изображена на скриншоте screen7.jpg
 
 - summary: |
