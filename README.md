@@ -6,4 +6,4 @@ Testing small internet-store https://hexlet-products-store.vercel.app/ that incl
 * conducting test analysis and drafting test cases
 * conducting testing using previously created test cases
 * drafting bug reports
-* conducting regression testing;
+* conducting regression testing
